@@ -1,0 +1,3 @@
+file1.bin 0 14
+file2.bin 14 16
+file3.bin 16 23
