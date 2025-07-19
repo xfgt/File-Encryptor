@@ -1,4 +1,5 @@
 # File-Encryptor
+<img src="podgotovka/2.png">
 
 This project implements a basic file encryption, decryption, registration, and removal for binary data of file using C++. It simulates secure storage by splitting metadata and actual binary data between two files: `index.txt` and `data.bin`. It uses a simple XOR cipher for encryption and decryption.
 ## Features
@@ -36,3 +37,5 @@ g++ -std=c++11 -o file_encryptor main.cpp functions.cpp fuctions.h
 ```
 
 Make sure you have placed your files in the same working directory.
+
+
